@@ -1,0 +1,3 @@
+function header() {
+  system("head -n1 " ARGV[1])
+}
