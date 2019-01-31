@@ -8,4 +8,4 @@ imports and then include this file in your script (if anyone can come up with be
 
 
 An example of such file is in this repository (include.awk). It can be loaded by simply using:  
-**awk '@include include.awk; YOUR CODE HERE'**
+**awk '@include include.awk; the_rest_of_the_script'**
